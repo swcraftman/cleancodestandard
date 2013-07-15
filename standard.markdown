@@ -9,7 +9,9 @@ illustrate what's 'clean code' to develop teams, recommend clean code practices 
 (SMART referred) specific, measurable, attainable, etc ???
 tips Principle: no surprise, decrease burden of readers, explicit, ???
 
-## Requisite
+## Items
+
+### Requisite
 
 * Naming (can include Magic numbers, repeated string literals): consistent, domain names preferred.
 * Comment
@@ -32,6 +34,6 @@ tips Principle: no surprise, decrease burden of readers, explicit, ???
 * Makefile: illustrate file-dependency relationship, refer to Simon's tech-talk
 * Performance excuse: 'static inline', find hot-spots by profiling, modularity benefits locating hot-spots and limiting scope of code needs modified
 
-## Recommended
+### Recommended
 
-## Suggestion
+### Suggestion
